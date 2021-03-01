@@ -1,4 +1,4 @@
-﻿/* * * * * * * * * * * * * * * *
+/* * * * * * * * * * * * * * * *
  *                             *
  *        Лабораторная 2       *
  *                             *
@@ -19,7 +19,9 @@ namespace lab2
         private string pathFile;
 
         public DocumentInformation()
-        {}
+        {
+
+        }
 
         public string Name
         {
